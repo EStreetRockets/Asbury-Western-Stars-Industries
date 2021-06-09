@@ -1,5 +1,5 @@
 # Asbury-Western-Stars-Industries
-This mod aims to the Kistler K-1 reusable launch vehicle. Many thanks to e of pi.
+This mod adds a stockalike replica of the Kistler K-1 reusable launch vehicle. Many thanks to e of pi.
 
 # Licensing
 This mod is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
